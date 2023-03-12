@@ -1,4 +1,4 @@
-# VRC_RealTimeReflectionRate
+# VRC_RealTimeReflection probe Rate
 A simple script that allow to update real time reflection at a specific rate in seconds. Perfect for multiples real time reflection probes in a scene and a way to optimize it.
 
 # Instalation
